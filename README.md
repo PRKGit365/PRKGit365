@@ -8,4 +8,4 @@
 
 📫 How to reach me: pratyusha.raok@gmail.com
 
-⚡ I combine creativity with analytics to help solve real-world healthcare problems and support clinical insight and decision-making.
+⚡ I combine creativity with analytics to help solve real-world healthcare problems and support clinical decision-making.
