@@ -24,10 +24,10 @@ Here are a few technologies I’ve been working with recently:
 
 📈🩺 **Featured Projects**  
 
-* **Emergency Department Readmission Analysis** using Python
+* **Emergency Department Readmission Analysis (Python)**
   
-* **Clinical (Lab Results) and Claims (Pharmacy) Analysis** using Excel, SQL and Python
+* **Clinical (Lab Results) and Claims (Pharmacy) Analysis (Excel, SQL and Python)**
   
-* **Adventure Works Marketing Dashboard** using Power BI
+* **Adventure Works Marketing Dashboard (Power BI)**
 
 ***
