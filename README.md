@@ -7,11 +7,13 @@
 * 📫 How to reach me: pratyusha.raok@gmail.com
 * ⚡ I combine creativity with analytics to help solve real-world healthcare problems and support clinical decision-making.
 
-🛠️ **My Tech Stack**
+🛠️ **My Tech Stack**  
+
 Here are a few technologies I’ve been working with recently:
 
-Data Analysis & Visualization: Power BI, Excel
-Programming & Querying: Python (Pandas, NumPy), SQL
-Database Management: MySQL, ETL Processes
+*Data Analysis & Visualization: Power BI, Excel
+*Programming & Querying: Python (Pandas, NumPy), SQL
+*Database Management: MySQL Server, ETL Processes
 
 📊 **Featured Projects**
+ED Readmission Analysis
