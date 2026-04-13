@@ -12,9 +12,10 @@
 
 Here are a few technologies I’ve been working with recently:
 
-*Data Analysis & Visualization: Power BI, Excel
-*Programming & Querying: Python (Pandas, NumPy), SQL
-*Database Management: MySQL Server, ETL Processes
+* Data Analysis & Visualization: Power BI, Excel
+* Programming & Querying: Python (Pandas, NumPy), SQL
+* Database Management: MySQL Server, ETL Processes
 
-📊 **Featured Projects**
+📊 **Featured Projects**  
+
 ED Readmission Analysis
