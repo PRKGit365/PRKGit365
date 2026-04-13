@@ -8,7 +8,7 @@
 * 📫 How to reach me: pratyusha.raok@gmail.com
 * ⚡ I combine creativity with analytics to help solve real-world healthcare problems and support clinical decision-making.
 
-🛠️ **My Tech Stack**  
+🛠️ **My Tech Stack**
 
 Here are a few technologies I’ve been working with recently:
 
@@ -19,3 +19,4 @@ Here are a few technologies I’ve been working with recently:
 📊 **Featured Projects**  
 
 ED Readmission Analysis
+Clinical and Claims Analysis using 
