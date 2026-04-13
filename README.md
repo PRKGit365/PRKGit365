@@ -3,7 +3,7 @@
 
 💬*Let's build better healthcare together - through compassion, innovation and collaboration.*  
 
-📊 Healthcare Analyst | Power BI | SQL | Python | Excel | Population Health  
+📊 Healthcare Analyst | Power BI | SQL | Python | Excel | Population Health Analytics
 
 * 🌱 I’m currently learning Data Analytics to obtain a **TechMaster Certificate in Data Analytics from SkillUp**.
 * 🗪 I’m looking to collaborate on **Population Health and Clinical Analytical Projects, Data Visualization, and Healthcare Dashboards**.
