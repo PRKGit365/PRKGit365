@@ -1,10 +1,8 @@
 ## Hi there, I'm Pratyusha 👋  
  
-***
 
 💬*Let's build better healthcare together - through compassion, innovation and collaboration.*  
 
-***
 
 📍**Washington, DC (USA)**  
 
@@ -16,6 +14,7 @@
 * 📫 How to reach me: pratyusha.raok@gmail.com 
 * 🎯 My goal is to combine my understanding of value-based care models and knowledge of healthcare data analytics to support clinical decision-making and solve real-world healthcare problems.
 
+***
 
 🛠️ **My Tech Stack**
 
@@ -25,6 +24,7 @@ Here are a few technologies I’ve been working with recently:
 * **Programming & Querying:** Python (Pandas, NumPy), SQL
 * **Database Management Systems:** MySQL Server
 
+***
 
 📈🩺 **Featured Projects**  
 
@@ -32,4 +32,3 @@ Here are a few technologies I’ve been working with recently:
 * **Clinical (Lab Results) and Claims (Pharmacy) Analysis (Excel, SQL and Python)**  
 * **Adventure Works Marketing Dashboard (Power BI)**  
 
-***
