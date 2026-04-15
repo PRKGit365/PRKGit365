@@ -1,12 +1,14 @@
 ## Hi there, I'm Pratyusha 👋  
-
+ 
 💬*Let's build better healthcare together - through compassion, innovation and collaboration.*  
 
 📍**Washington, DC (USA)**  
 
-📊 Healthcare Analyst | Power BI | SQL | Python | Excel | Population Health Analytics
+📊 Healthcare Analyst | Power BI | SQL | Python | Excel | Population Health Analytics  
 
-* 🌱 I’m currently learning Data Analytics to obtain a **TechMaster Certificate in Data Analytics from SkillUp**.
+
+
+* 🌱I’m currently learning Data Analytics to obtain a **TechMaster Certificate in Data Analytics from SkillUp**.
 * 🗪 I’m looking to collaborate on **Population Health and Clinical Analytical Projects, Data Visualization, and Healthcare Dashboards**.
 * 📫 How to reach me: pratyusha.raok@gmail.com 
 * 🎯 My goal is to combine my understanding of value-based care models and knowledge of healthcare data analytics to support clinical decision-making and solve real-world healthcare problems.
