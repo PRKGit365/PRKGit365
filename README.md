@@ -16,7 +16,6 @@
 * 📫 How to reach me: pratyusha.raok@gmail.com 
 * 🎯 My goal is to combine my understanding of value-based care models and knowledge of healthcare data analytics to support clinical decision-making and solve real-world healthcare problems.
 
-***
 
 🛠️ **My Tech Stack**
 
@@ -26,7 +25,6 @@ Here are a few technologies I’ve been working with recently:
 * **Programming & Querying:** Python (Pandas, NumPy), SQL
 * **Database Management Systems:** MySQL Server
 
-***
 
 📈🩺 **Featured Projects**  
 
