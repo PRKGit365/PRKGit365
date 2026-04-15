@@ -6,7 +6,7 @@
 
 📍**Washington, DC (USA)**  
 
-📊 Healthcare Analyst | Power BI | SQL | Python | Excel | Population Health Analytics  
+📊 Healthcare Analyst | Power BI | SQL | Python | Excel
 
 
 * 🌱I’m currently learning Data Analytics to obtain a **TechMaster Certificate in Data Analytics from SkillUp**.
@@ -27,8 +27,9 @@ Here are a few technologies I’ve been working with recently:
 ***
 
 📈 **Featured Projects**  
-
+Healthcare:
 * **Emergency Department Readmission Analysis (Python)**  
 * **Clinical (Lab Results) and Claims (Pharmacy) Analysis (Excel, SQL and Python)**  
+Business:
 * **Adventure Works Marketing Dashboard (Power BI)**  
 
