@@ -26,7 +26,7 @@ Here are a few technologies I’ve been working with recently:
 
 ***
 
-📈🩺 **Featured Projects**  
+📈 **Featured Projects**  
 
 * **Emergency Department Readmission Analysis (Python)**  
 * **Clinical (Lab Results) and Claims (Pharmacy) Analysis (Excel, SQL and Python)**  
