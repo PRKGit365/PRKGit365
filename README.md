@@ -6,7 +6,7 @@
 
 📍**Washington, DC (USA)**  
 
-📊 Healthcare Analyst | Power BI | SQL | Python | Excel | Population Health | Value-Based Care
+📊 Healthcare Analyst | Power BI | SQL | Python | Excel | Value-Based Care | Population Health 
 
 
 * 🌱I’m currently learning Data Analytics to obtain a **TechMaster Certificate in Data Analytics from SkillUp**.
