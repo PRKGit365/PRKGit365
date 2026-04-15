@@ -1,7 +1,7 @@
 ## Hi there, I'm Pratyusha 👋  
  
 
-💬Let's build better healthcare together - through compassion, innovation and collaboration.  
+💬Let's build better healthcare together, through compassion, innovation and collaboration.  
 
 
 📍**Washington, DC (USA)**  
