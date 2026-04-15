@@ -1,7 +1,8 @@
-## Hi there, I'm Pratyusha 👋
-📍**Washington, DC (USA)**  
+## Hi there, I'm Pratyusha 👋  
 
 💬*Let's build better healthcare together - through compassion, innovation and collaboration.*  
+
+📍**Washington, DC (USA)**  
 
 📊 Healthcare Analyst | Power BI | SQL | Python | Excel | Population Health Analytics
 
