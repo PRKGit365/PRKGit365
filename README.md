@@ -30,7 +30,7 @@ Here are a few technologies I've been working with recently:
 
 **Healthcare:**
 
-* ### Emergency Department Readmission Analysis (Python)
+### Emergency Department Readmission Analysis (Python)
 - Analyzed emergency department readmission patterns and risk factors.
 - Used Python (Pandas, NumPy) for data processing and analysis.
 - Identified key drivers of patient readmissions to support clinical decision-making.  
@@ -38,7 +38,7 @@ Here are a few technologies I've been working with recently:
 
 ---
 
-* ### Clinical (Lab Results) and Claims (Pharmacy) Analysis (Excel, SQL and Python)
+### Clinical (Lab Results) and Claims (Pharmacy) Analysis (Excel, SQL and Python)
 - Integrated clinical lab data with pharmacy claims data.
 - Performed comprehensive analysis using Excel, SQL, and Python.
 - Generated actionable insights for healthcare analytics.  
@@ -48,7 +48,7 @@ Here are a few technologies I've been working with recently:
 
 **Projects Applying Visualization Techniques in Fields Other than Healthcare:**
 
-* ### Adventure Works Marketing Dashboard (Power BI)
+### Adventure Works Marketing Dashboard (Power BI)
 - Created interactive dashboards for business performance analysis.
 - Built calculated fields and measures using DAX.
 - Designed visualizations to support marketing and business decision-making.  
