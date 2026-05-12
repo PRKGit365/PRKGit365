@@ -30,8 +30,8 @@ Here are a few technologies I've been working with recently:
 
 **Healthcare:**
 * [Emergency Department Readmission Analysis](https://github.com/PRKGit365/Emergency-Department-Readmissions-Analysis) (Python)
-* Clinical (Lab Results) and Claims (Pharmacy) Analysis (Excel, SQL and Python)
+* [Clinical (Lab Results) and Claims (Pharmacy) Analysis](https://github.com/PRKGit365/Clinical-Lab-Results-Claims-Pharmacy-Analysis) (Excel, SQL and Python)
 
 **Projects Applying Visualization Techniques in Fields Other than Healthcare:**  
-* Adventure Works Marketing Dashboard (Power BI) 
+* [Adventure Works Marketing Dashboard](https://github.com/PRKGit365/Adventure-Works-Marketing-Dashboard) (Power BI) 
 
