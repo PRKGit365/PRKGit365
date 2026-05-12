@@ -16,7 +16,7 @@
 
 ***
 
-🛠️ **My Tech Stack**
+## 🛠️ My Tech Stack
 
 Here are a few technologies I've been working with recently:
 
@@ -26,9 +26,9 @@ Here are a few technologies I've been working with recently:
 
 ***
 
-📈 **Featured Projects**    
+## 📈 Featured Projects    
 
-**Healthcare:**
+## Healthcare:
 
 ### Emergency Department Readmission Analysis (Python)
 - Analyzed emergency department readmission patterns and risk factors.
@@ -46,7 +46,7 @@ Here are a few technologies I've been working with recently:
 
 ---
 
-**Projects Applying Visualization Techniques in Fields Other than Healthcare:**
+## Projects Applying Visualization Techniques in Fields Other than Healthcare:
 
 ### Adventure Works Marketing Dashboard (Power BI)
 - Created interactive dashboards for business performance analysis.
