@@ -22,7 +22,7 @@ Here are a few technologies I’ve been working with recently:
 
 * **Data Analysis & Visualization:** (Power BI, Excel)
 * **Programming & Querying:** Python (Pandas, NumPy), SQL
-* **Database Management Systems:** MySQL Server
+* **Database Management Systems:** Microsoft SQL Server, MySQL Server
 
 ***
 
