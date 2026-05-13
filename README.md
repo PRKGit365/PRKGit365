@@ -36,7 +36,12 @@ Here are a few technologies I've been working with recently:
 🔗 [Project Link](https://github.com/PRKGit365/Emergency-Department-Readmissions-Analysis)
 
 ---
-
+### Health Analytics Project (MS SQL Server)
+- Analyzed healthcare data by grouping patients by demographics, diagnoses, appointment trends, lab tests, and cardiovascular risk levels.
+- Used SQL functions including CASE, COUNT, DATEDIFF, DATEPART, JOIN, GROUP BY, and ORDER BY.
+- Connected multiple healthcare tables, identified abnormal fasting blood sugar results, classified patient risk categories, and summarized healthcare utilization patterns for better planning and patient care.  
+🔗 [Project Link](https://github.com/PRKGit365/Health-Analytics-Project-Using-SQL)
+---
 ### Clinical (Lab Results) and Claims (Pharmacy) Analysis (Excel, SQL and Python)
 - Integrated clinical lab data with pharmacy claims data.
 - Performed comprehensive analysis using Excel, SQL, and Python.
