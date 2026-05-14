@@ -50,7 +50,7 @@ Here are a few technologies I've been working with recently:
 
 ---
 
-## Business Projects
+## Business
 
 ### Adventure Works Marketing Dashboard (Power BI)
 - Created interactive dashboards for business performance analysis.
