@@ -1,4 +1,4 @@
-# Hi There, I'm Pratyusha 👋  
+# Hi there, I'm Pratyusha 👋  
 
 💬Let's build better healthcare together, through compassion, innovation and collaboration.  
 
