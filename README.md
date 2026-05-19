@@ -9,9 +9,10 @@
 
 
 * 🌱I'm currently learning Data Analytics to obtain a **TechMaster Certificate in Data Analytics from SkillUp**.
-* 🗪 I'm looking to collaborate on **Population Health, Clinical Analytics Projects, Data Visualization, and Healthcare Dashboards**.
+* I'm also learning Snowflake and Tableau.
+* 🗪 I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**.
 * 📫 How to reach me: pratyusha.raok@gmail.com 
-* 🎯 My goal is to combine my understanding of value-based care models and knowledge of healthcare data analytics to support clinical decision-making and solve real-world healthcare problems.
+* 🎯 My goal is to combine my experience with stakeholder engagement, understanding of value-based care models and knowledge of healthcare data analytics to support clinical decision-making and solve real-world healthcare problems.
 
 ***
 
