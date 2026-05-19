@@ -8,7 +8,7 @@
 📊 Healthcare Analyst | Power BI | SQL | Python | Excel | Value-Based Care | Population Health 
 
 
-* 🌱I'm currently learning to build pipelines in Snowflake, data visualization with Tableau and earning a **TechMaster Certificate in Data Analytics from SkillUp**.
+* 🌱I'm currently learning data visualization using Tableau and exploring building data pipelines in Snowflake. I'm also in the process of earning my **TechMaster Certificate in Data Analytics from SkillUp**.
 * 🗪 I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**.
 * 📫 How to reach me: pratyusha.raok@gmail.com 
 * 🎯 My goal is to combine my experience with stakeholder engagement, understanding of value-based care models and knowledge of healthcare data analytics to support decision-making and solve real-world healthcare problems.
@@ -24,6 +24,9 @@ Here are a few technologies I've been working with recently:
 * **Database Management Systems:** Microsoft SQL Server, MySQL Server
 
 ***
+## 📊Education
+- Master in Health Administration (MHA)
+- Master of Science (MSc)
 
 ## 📈 Featured Projects    
 
