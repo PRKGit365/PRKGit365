@@ -20,7 +20,7 @@
 
 Here are a few technologies I've been working with recently:
 
-* **Data Analysis & Visualization:** Power BI, Excel
+* **Data Analysis & Visualization:** Power BI, Excel, IBM Cognos Analytics
 * **Programming & Querying:** SQL, Python (Pandas, NumPy)
 * **Database Management Systems:** Microsoft SQL Server, MySQL
 
