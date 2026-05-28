@@ -5,7 +5,7 @@
 
 ### 📍 Washington, DC (USA)  
 
-📊 Healthcare Analyst | Excel | SQL | Power BI | Python | Value-Based Care | Population Health 
+📊 Healthcare Analyst | SQL | Power BI | Excel | Python | Value-Based Care | Population Health 
 
 
 * 🌱I'm currently learning **Tableau**.
