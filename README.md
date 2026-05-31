@@ -37,12 +37,19 @@ Here are a few technologies I've been working with recently:
 - Identified key drivers of patient readmissions to support clinical decision-making.  
 🔗 [Project Link](https://github.com/PRKGit365/Emergency-Department-Readmissions-Analysis)
 
+### Emergency Department Dashboard (Power BI)
+- Created interactive dashboards for business performance analysis.
+- Built calculated fields and measures using DAX.
+- Designed visualizations to support decision-making.  
+🔗 [Project Link](https://github.com/PRKGit365/Business-Dashboards)
 ---
+
 ### Health Analytics Project (MS SQL Server)
 - Analyzed healthcare data by grouping patients by demographics, diagnoses, appointment trends, lab tests, and cardiovascular risk levels.
 - Used SQL functions including CASE, COUNT, DATEDIFF, DATEPART, JOIN, GROUP BY, and ORDER BY.
 - Connected multiple healthcare tables, identified abnormal fasting blood sugar results, classified patient risk categories, and summarized healthcare utilization patterns for better planning and patient care.  
 🔗 [Project Link](https://github.com/PRKGit365/Health-Analytics-Project-Using-SQL)
+
 ---
 ### Clinical (Lab Results) and Claims (Pharmacy) Analysis (Excel, SQL and Python)
 - Integrated clinical lab data with pharmacy claims data.
@@ -50,14 +57,8 @@ Here are a few technologies I've been working with recently:
 - Generated actionable insights for healthcare analytics.  
 🔗 [Project Link](https://github.com/PRKGit365/Healthcare-Data-Analytics-Using-Excel-SQL-Python)
 
----
 
-## Dashboards
 
-### Emergency Department Dashboard (Power BI)
-- Created interactive dashboards for business performance analysis.
-- Built calculated fields and measures using DAX.
-- Designed visualizations to support decision-making.  
-🔗 [Project Link](https://github.com/PRKGit365/Business-Dashboards)
+
 
 ---
