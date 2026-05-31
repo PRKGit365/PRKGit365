@@ -56,7 +56,7 @@ Here are a few technologies I've been working with recently:
 
 ## Dashboards
 
-### Emergency Deparment Dashboard (Power BI)
+### Emergency Department Dashboard (Power BI)
 - Created interactive dashboards for business performance analysis.
 - Built calculated fields and measures using DAX.
 - Designed visualizations to support decision-making.  
