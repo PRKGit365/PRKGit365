@@ -26,12 +26,12 @@ Here are a few technologies I've been working with recently:
 * **Programming & Querying:** SQL, Python (Pandas, NumPy)
 * **Database Management Systems:** Microsoft SQL Server, MySQL
 
-***
+
 ## 🎓 Education
 - Master in Health Administration (MHA)
 - Master of Science (MSc)
   
-*** 
+
 
 ## 📈 Featured Projects    
 
