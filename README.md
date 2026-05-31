@@ -16,7 +16,7 @@
 
 ***
 
-## 🛠️ My Tech Stack
+### 🛠️ My Tech Stack
 
 Here are a few technologies I've been working with recently:
 
@@ -25,13 +25,13 @@ Here are a few technologies I've been working with recently:
 * **Database Management Systems:** Microsoft SQL Server, MySQL
 
 ***
-## 🎓 Education
+### 🎓 Education
 - Master in Health Administration (MHA)
 - Master of Science (MSc)
   
 ---  
 
-## 📈 Featured Projects    
+### 📈 Featured Projects    
 
 ### Emergency Department Readmission Analysis (Python)
 - Analyzed emergency department readmission patterns and risk factors.
