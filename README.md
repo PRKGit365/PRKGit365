@@ -54,12 +54,12 @@ Here are a few technologies I've been working with recently:
 
 ---
 
-## Business
+## Dashboards
 
-### Adventure Works Marketing Dashboard (Power BI)
+### Emergency Deparment Dashboard (Power BI)
 - Created interactive dashboards for business performance analysis.
 - Built calculated fields and measures using DAX.
-- Designed visualizations to support marketing and business decision-making.  
+- Designed visualizations to support decision-making.  
 🔗 [Project Link](https://github.com/PRKGit365/Business-Dashboards)
 
 ---
