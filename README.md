@@ -5,9 +5,11 @@
 
 ### 📍 Washington, DC (USA)  
 
+  
 📊 Healthcare Analyst | SQL | Power BI | Excel | Python | Value-Based Care | Population Health 
 
 
+  
 * 🌱I'm currently learning **Tableau**.
 * 📄I'm also in the process of earning my **TechMaster Certificate in Data Analytics from SkillUp**.
 * 🗪 I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**.
@@ -16,7 +18,7 @@
 
 ***
 
-### 🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 
 Here are a few technologies I've been working with recently:
 
@@ -25,13 +27,13 @@ Here are a few technologies I've been working with recently:
 * **Database Management Systems:** Microsoft SQL Server, MySQL
 
 ***
-### 🎓 Education
+## 🎓 Education
 - Master in Health Administration (MHA)
 - Master of Science (MSc)
   
----  
+*** 
 
-### 📈 Featured Projects    
+## 📈 Featured Projects    
 
 ### Emergency Department Readmission Analysis (Python)
 - Analyzed emergency department readmission patterns and risk factors.
