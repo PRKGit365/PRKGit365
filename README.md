@@ -31,8 +31,6 @@ Here are a few technologies I've been working with recently:
 
 ## 📈 Featured Projects    
 
-## Healthcare
-
 ### Emergency Department Readmission Analysis (Python)
 - Analyzed emergency department readmission patterns and risk factors.
 - Used Python (Pandas, NumPy) for data processing and analysis.
