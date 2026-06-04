@@ -39,7 +39,7 @@ Here are a few technologies I've been working with recently:
 - Analyzed emergency department readmission patterns and risk factors.
 - Used Python (Pandas, NumPy) for data processing and analysis.
 - Identified key drivers of patient readmissions to support clinical decision-making.  
-🔗 [Project Link](https://github.com/PRKGit365/Emergency-Department-Readmissions-Analysis-and-Predictive-Modeling
+🔗 [Project Link](https://github.com/PRKGit365/Emergency-Department-Readmissions-Analysis-and-Predictive-Modeling)
 
 ### Emergency Department Dashboard (Power BI)
 - Created interactive dashboards for business performance analysis.
