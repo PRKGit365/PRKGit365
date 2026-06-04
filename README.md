@@ -45,7 +45,7 @@ Here are a few technologies I've been working with recently:
 - Created interactive dashboards for business performance analysis.
 - Built calculated fields and measures using DAX.
 - Designed visualizations to support decision-making.  
-🔗 [Project Link](https://github.com/PRKGit365/Business-Dashboards)
+🔗 [Project Link](https://github.com/PRKGit365/Dashboards-and-Reports)
 
 ### Health Analytics Project (MS SQL Server)
 - Analyzed healthcare data by grouping patients by demographics, diagnoses, appointment trends, lab tests, and cardiovascular risk levels.
