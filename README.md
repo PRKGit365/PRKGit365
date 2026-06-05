@@ -58,3 +58,7 @@ Here are a few technologies I've been working with recently:
 - Performed comprehensive analysis using Excel, SQL, and Python.
 - Generated actionable insights for healthcare analytics.  
 🔗 [Project Link](https://github.com/PRKGit365/Healthcare-Data-Analytics-Using-Excel-SQL-Python)
+
+### 🔗 Connect with me:  
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prk85)
