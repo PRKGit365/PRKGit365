@@ -19,11 +19,11 @@
 ***
 
 ## 🛠️ My Tech Stack
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos_Analytics-0078D4?style=for-the-badge&logo=IBM-cognos-analytics&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2300C4CC.svg?style=for-the-badge&logo=Python&logoColor=white)  ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Looker_Studio-E97627?style=for-the-badge&logo=Looker-Studio&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos_Analytics-0078D4?style=for-the-badge&logo=IBM-cognos-analytics&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2300C4CC.svg?style=for-the-badge&logo=Python&logoColor=white)  ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Data_(Looker)_Studio-E97627?style=for-the-badge&logo=Looker-Studio&logoColor=white)
 
 Here are a few technologies I've been working with recently:
 
-* **Data Analysis & Visualization:** Power BI, Microsoft Excel, IBM Cognos Analytics, Looker Studio
+* **Data Analysis & Visualization:** Power BI, Microsoft Excel, IBM Cognos Analytics, Data (Looker) Studio
 * **Programming & Querying:** SQL, Python (Pandas, NumPy)
 * **Database Management Systems:** Microsoft SQL Server, MySQL
 
