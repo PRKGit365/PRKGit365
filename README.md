@@ -1,6 +1,6 @@
 # Hi there, I'm Pratyusha 👋  
 
-💬Let's build better healthcare together, through compassion, innovation and collaboration.  
+💬Welcome to my Github profile and portfolio. Let's build better healthcare together, through compassion, innovation and collaboration.  
 
 
 ### 📍 Washington, DC (USA)  
