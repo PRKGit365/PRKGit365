@@ -33,10 +33,11 @@
 
 
 ### Emergency Department Dashboard 🔗 [Project Link](https://github.com/PRKGit365/Dashboards-and-Reports) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- [View interactive Dashboard](https://prkgit365.github.io/Dashboards-and-Reports/)
 - Created interactive dashboards for business performance analysis.
 - Built calculated fields and measures using DAX.
 - Designed visualizations to support decision-making.
-- [View interactive Dashboard](https://prkgit365.github.io/Dashboards-and-Reports/)
+
 
 
 ### Health Analytics Project 🔗 [Project Link](https://github.com/PRKGit365/Health-Analytics-Project-Using-SQL) ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
