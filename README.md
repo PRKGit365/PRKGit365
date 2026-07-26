@@ -1,7 +1,6 @@
-# Hi there, I'm Pratyusha 👋  
+# Hi there, I'm Pratyusha.
 
-💬Welcome to my Github profile and portfolio. Let's build better healthcare together, through compassion, innovation and collaboration.  
-
+💬Welcome to my Github profile and portfolio. 
 
 ### 📍 Washington, DC (USA)  
 
