@@ -1,6 +1,8 @@
-# Hi there, I'm Pratyusha.
+# Hi there, I'm Pratyusha! 👋🏻
 
-💬Welcome to my Github profile and portfolio. 
+ Collaborative and Innovative Health Care Problem Solver 
+ 
+💬Welcome to my Github profile and portfolio.
 
 ### 📍 Washington, DC (USA)  
 
