@@ -9,7 +9,7 @@
 
 
   
-* 🌱I'm currently learning **Tableau** and **Snowflake**.
+* 🌱I'm learning **Tableau** and **Snowflake**.
 * 📄I'm also in the process of earning my **TechMaster Certificate in Data Analytics from SkillUp**.
 * 🗪 I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**.
 * 📫 How to reach me: pratyusha.raok@gmail.com 
