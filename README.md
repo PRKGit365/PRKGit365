@@ -1,6 +1,6 @@
 # Hi there, I'm Pratyusha! 👋🏻
 
- Collaborative and Innovative Health Care Problem Solver 
+ ### Collaborative and Innovative Health Care Analyst
  
 💬Welcome to my Github profile and portfolio.
 
