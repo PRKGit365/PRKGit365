@@ -1,4 +1,4 @@
-# Hi there, I'm Pratyusha! 👋🏻
+# Hi there, I'm Pratyusha! <img src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2></h2>
 
  ### Collaborative and Innovative Health Care Analyst
  
