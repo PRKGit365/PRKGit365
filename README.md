@@ -25,28 +25,28 @@
 * **Database Management Systems:** Microsoft SQL Server, MySQL
 
 
-## 📈 Featured Projects    
+## Featured Projects    
 
- ### Emergency Department Readmission Analysis and Predictive Modeling ![Python](https://img.shields.io/badge/Python-%2300C4CC.svg?style=for-the-badge&logo=Python&logoColor=white) 🔗 [Project Link](https://github.com/PRKGit365/Emergency-Department-Readmissions-Analysis-and-Predictive-Modeling)
+ ### Emergency Department Readmission Analysis and Predictive Modeling 🔗 [Project Link](https://github.com/PRKGit365/Emergency-Department-Readmissions-Analysis-and-Predictive-Modeling) ![Python](https://img.shields.io/badge/Python-%2300C4CC.svg?style=for-the-badge&logo=Python&logoColor=white) 
 - Analyzed emergency department readmission patterns and risk factors.
-- Used Python (Pandas, NumPy) for data processing and analysis.
+- Used Python (Pandas, NumPy) for data processing and analysis. 
 - Identified key drivers of patient readmissions to support clinical decision-making.  
 
 
-### Emergency Department Dashboard ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 🔗 [Project Link](https://github.com/PRKGit365/Dashboards-and-Reports)
+### Emergency Department Dashboard 🔗 [Project Link](https://github.com/PRKGit365/Dashboards-and-Reports) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 - Created interactive dashboards for business performance analysis.
 - Built calculated fields and measures using DAX.
 - Designed visualizations to support decision-making.
 - [View interactive Dashboard](https://prkgit365.github.io/Dashboards-and-Reports/)
 
 
-### Health Analytics Project ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 🔗 [Project Link](https://github.com/PRKGit365/Health-Analytics-Project-Using-SQL)
+### Health Analytics Project 🔗 [Project Link](https://github.com/PRKGit365/Health-Analytics-Project-Using-SQL) ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 - Analyzed healthcare data by grouping patients by demographics, diagnoses, appointment trends, lab tests, and cardiovascular risk levels.
 - Used SQL functions including CASE, COUNT, DATEDIFF, DATEPART, JOIN, GROUP BY, and ORDER BY.
 - Connected multiple healthcare tables, identified abnormal fasting blood sugar results, classified patient risk categories, and summarized healthcare utilization patterns for better planning and patient care.  
 
 
-### Clinical (Lab Results) and Claims (Pharmacy) Analysis ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2300C4CC.svg?style=for-the-badge&logo=Python&logoColor=white) 🔗 [Project Link](https://github.com/PRKGit365/Healthcare-Data-Analytics-Using-Excel-SQL-Python)
+### Clinical (Lab Results) and Claims (Pharmacy) Analysis 🔗 [Project Link](https://github.com/PRKGit365/Healthcare-Data-Analytics-Using-Excel-SQL-Python) ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2300C4CC.svg?style=for-the-badge&logo=Python&logoColor=white) 
 - Integrated clinical lab data with pharmacy claims data.
 - Performed comprehensive analysis using Excel, SQL, and Python.
 - Generated actionable insights for healthcare analytics.  
