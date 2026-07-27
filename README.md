@@ -5,7 +5,7 @@ I'm an analyst with a passion for using technology to improve the healthcare ind
 
 📊 Healthcare Analyst | Power BI | SQL | Python | Excel 
 
-## &nbsp;About Me
+## About Me
 
 🌱 I'm learning **Tableau** and **Snowflake**.  
 📄 I'm also in the process of earning my **TechMaster Certificate in Data Analytics** from SkillUp.  
@@ -55,7 +55,7 @@ I'm an analyst with a passion for using technology to improve the healthcare ind
 - Performed comprehensive analysis using Excel, SQL, and Python.
 - Generated actionable insights for healthcare analytics.  
 
-### 🎓 Education  
+## 🎓 Education  
 **Mater of Health Administration**, University of North Carolina at Chapel Hill Gillings School of Global Public Health  
 **Master of Science in Biomedicine, Bioscience and Society (Sociology & Health Policy)**, London School of Economics 
 
