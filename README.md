@@ -11,6 +11,7 @@
 💡 I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**. Feel free to reach out! Let's innovate and build better healthcare together.  
 🎯 My goal is to use effective stakeholder engagement techniques, knowledge of value-based care models and healthcare data analytics to support decision-making and solve real-world healthcare problems.
 
+<img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='250' align="center"/>  
 
 ## 🛠️ My Tech Stack  
   
@@ -26,7 +27,7 @@
 **Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
 **Database Management Systems:** Microsoft SQL Server, MySQL  
 
-<img src="./assets/Laptop%20Banner.gif" width='600' align="center"/>  <img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='250' align="center"/>  
+<img src="./assets/Laptop%20Banner.gif" width='600' align="center"/>  
 
 ## 📊Featured Projects     
 
