@@ -1,13 +1,13 @@
 # Hi there, I'm Pratyusha! <img src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
 ### Welcome to my Github profile and portfolio.  
-I'm an analyst with a passion for using technology to improve the healthcare industry. Let's build better healthcare together through collaboration and innovation.
+I'm an analyst with a passion for using technology to improve the healthcare industry. I'm interested in exploring how to build better healthcare together through compassion, collaboration and innovation. 
 
 ### &nbsp;About Me
 
-🌱I'm learning **Tableau** and **Snowflake**.  
-📄I'm also in the process of earning my **TechMaster Certificate in Data Analytics from SkillUp**.  
-🗪 I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**. Feel free to reach out!  
+🌱 I'm learning **Tableau** and **Snowflake**.  
+📄 I'm also in the process of earning my **TechMaster Certificate in Data Analytics** from SkillUp.  
+💡 I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**. Feel free to reach out!  
 🎯 My goal is to use knowledge of stakeholder engagement, value-based care models and healthcare data analytics to support decision-making and solve real-world healthcare problems.  
 
 
@@ -27,7 +27,7 @@ I'm an analyst with a passion for using technology to improve the healthcare ind
 **Database Management Systems:** Microsoft SQL Server, MySQL  
 
 
-## Featured Projects     
+## 📊Featured Projects     
 
  ### Emergency Department Readmission Analysis and Predictive Modeling 🔗 [Project Link](https://github.com/PRKGit365/Emergency-Department-Readmissions-Analysis-and-Predictive-Modeling) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
