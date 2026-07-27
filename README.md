@@ -1,8 +1,7 @@
 # Hi there, I'm Pratyusha! <img src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
-💬Welcome to my Github profile and portfolio.  
-I am a data analyst with a passion for using technology to improve the healthcare industry. Let's build better healthcare together through compassion, collaboration and innovation.
-
+## Welcome to my Github profile and portfolio.  
+I'm an analyst with a passion for using technology to improve the healthcare industry. Let's build better healthcare together through collaboration and innovation.
 
 ### &nbsp;About Me
 
@@ -10,17 +9,18 @@ I am a data analyst with a passion for using technology to improve the healthcar
 📄I'm also in the process of earning my **TechMaster Certificate in Data Analytics from SkillUp**.  
 🗪 Most importantly, I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**. Feel free to reach out to me!  
 🎯 My goal is to use knowledge of stakeholder engagement, value-based care models and healthcare data analytics to support decision-making and solve real-world healthcare problems.  
- <img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='220' align="center"/> 
+
 
 ## 🛠️ My Tech Stack
- 
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)   
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![](https://img.shields.io/badge/Data_(Looker)_Studio-E97627?style=for-the-badge&logo=Looker-Studio&logoColor=white)](https://datastudio.google.com/overview)   
+  <img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='220' align="right"/> 
+  
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/) 
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com) 
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) 
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) 
+[![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server) 
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+[![](https://img.shields.io/badge/Data_(Looker)_Studio-E97627?style=for-the-badge&logo=Looker-Studio&logoColor=white)](https://datastudio.google.com/overview) 
 
 **Data Analysis & Visualization:** Power BI, Microsoft Excel, IBM Cognos Analytics, Data (Looker) Studio  
 **Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
