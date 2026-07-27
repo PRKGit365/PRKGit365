@@ -5,15 +5,14 @@
 ### 📍 Washington, DC (USA)  
 
 ### &nbsp;About Me
-  
+
 🌱I'm learning **Tableau** and exploring **Snowflake**.  
 📄I'm also in the process of earning my **TechMaster Certificate in Data Analytics from SkillUp**.  
 🗪 Most importantly, I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**. Feel free to reach out to me!  
-🎯 My goal is to use knowledge of stakeholder engagement, value-based care models and healthcare data analytics to support decision-making and solve real-world healthcare problems.
-
+🎯 My goal is to use knowledge of stakeholder engagement, value-based care models and healthcare data analytics to support decision-making and solve real-world healthcare problems.  
+ <img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='220' align="center"/>
 
 ## 🛠️ My Tech Stack
-<img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='250' align="right"/>
 
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/)   
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
@@ -25,7 +24,7 @@
 **Database Management Systems:** Microsoft SQL Server, MySQL
 
 
-## Featured Projects    
+## Featured Projects     
 
  ### Emergency Department Readmission Analysis and Predictive Modeling 🔗 [Project Link](https://github.com/PRKGit365/Emergency-Department-Readmissions-Analysis-and-Predictive-Modeling) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - Analyzed emergency department readmission patterns and risk factors.
