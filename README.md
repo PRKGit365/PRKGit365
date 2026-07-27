@@ -22,7 +22,7 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/)   
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos_Analytics-0078D4?style=for-the-badge&logo=IBM-cognos-analytics&logoColor=white) 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Data_(Looker)_Studio-E97627?style=for-the-badge&logo=Looker-Studio&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Data_(Looker)_Studio-E97627?style=for-the-badge&logo=Looker-Studio&logoColor=white) 
 
 * **Data Analysis & Visualization:** Power BI, Microsoft Excel, IBM Cognos Analytics, Data (Looker) Studio
 * **Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -31,13 +31,13 @@
 
 ## Featured Projects    
 
- ### Emergency Department Readmission Analysis and Predictive Modeling 🔗 [Project Link](https://github.com/PRKGit365/Emergency-Department-Readmissions-Analysis-and-Predictive-Modeling) ![Python](https://img.shields.io/badge/Python-%2300C4CC.svg?style=for-the-badge&logo=Python&logoColor=white) 
+ ### Emergency Department Readmission Analysis and Predictive Modeling 🔗 [Project Link](https://github.com/PRKGit365/Emergency-Department-Readmissions-Analysis-and-Predictive-Modeling) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - Analyzed emergency department readmission patterns and risk factors.
 - Used Python (Pandas, NumPy) for data processing and analysis. 
 - Identified key drivers of patient readmissions to support clinical decision-making.  
 
 
-### Emergency Department Dashboard 🔗 [Project Link](https://github.com/PRKGit365/Dashboards-and-Reports) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### Emergency Department Dashboard 🔗 [Project Link](https://github.com/PRKGit365/Dashboards-and-Reports) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 - [View interactive Dashboard](https://prkgit365.github.io/Dashboards-and-Reports/)
 - Created interactive dashboards for business performance analysis.
 - Built calculated fields and measures using DAX.
@@ -51,7 +51,7 @@
 - Connected multiple healthcare tables, identified abnormal fasting blood sugar results, classified patient risk categories, and summarized healthcare utilization patterns for better planning and patient care.  
 
 
-### Clinical (Lab Results) and Claims (Pharmacy) Analysis 🔗 [Project Link](https://github.com/PRKGit365/Healthcare-Data-Analytics-Using-Excel-SQL-Python) ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2300C4CC.svg?style=for-the-badge&logo=Python&logoColor=white) 
+### Clinical (Lab Results) and Claims (Pharmacy) Analysis 🔗 [Project Link](https://github.com/PRKGit365/Healthcare-Data-Analytics-Using-Excel-SQL-Python) ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - Integrated clinical lab data with pharmacy claims data.
 - Performed comprehensive analysis using Excel, SQL, and Python.
 - Generated actionable insights for healthcare analytics.  
