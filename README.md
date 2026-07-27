@@ -1,5 +1,3 @@
-<img src="./assets/Laptop%20Banner.gif"/>  
-
 # Hi there, I'm Pratyusha! <img src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
 💬Welcome to my Github profile and portfolio.  
@@ -15,14 +13,14 @@ I am a data analyst with a passion for using technology to improve the healthcar
  <img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='220' align="center"/> 
 
 ## 🛠️ My Tech Stack
-
+ 
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
-![](https://img.shields.io/badge/Data_(Looker)_Studio-E97627?style=for-the-badge&logo=Looker-Studio&logoColor=white) 
+[![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)   
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![](https://img.shields.io/badge/Data_(Looker)_Studio-E97627?style=for-the-badge&logo=Looker-Studio&logoColor=white)](https://datastudio.google.com/overview)   
 
 **Data Analysis & Visualization:** Power BI, Microsoft Excel, IBM Cognos Analytics, Data (Looker) Studio  
 **Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
