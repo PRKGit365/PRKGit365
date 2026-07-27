@@ -1,3 +1,5 @@
+<img src="./assets/Laptop%20Banner.gif"/>  
+
 # Hi there, I'm Pratyusha! <img src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
 💬Welcome to my Github profile and portfolio.  
@@ -25,8 +27,6 @@ I am a data analyst with a passion for using technology to improve the healthcar
 **Data Analysis & Visualization:** Power BI, Microsoft Excel, IBM Cognos Analytics, Data (Looker) Studio  
 **Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
 **Database Management Systems:** Microsoft SQL Server, MySQL  
-
-<img src="./assets/Laptop%20Banner.gif"/>  
 
 ## Featured Projects     
 
