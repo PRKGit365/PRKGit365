@@ -4,12 +4,12 @@
 
 📊 Healthcare Analyst | Power BI | SQL | Python | Excel 
 
-### &nbsp;About Me
+## &nbsp;About Me
 
 🌱 I'm learning **Tableau** and **Snowflake**.  
 📄 I'm also in the process of earning my **TechMaster Certificate in Data Analytics** from SkillUp.  
-💡 I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**. Feel free to reach out! Let's build better healthcare together.  
-🎯 My goal is to use effective stakeholder engagement, knowledge of value-based care models and healthcare data analytics to support decision-making and solve real-world healthcare problems.
+💡 I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**. Feel free to reach out! Let's innovate and build better healthcare together.  
+🎯 My goal is to use effective stakeholder engagement techniques, knowledge of value-based care models and healthcare data analytics to support decision-making and solve real-world healthcare problems.
 
 
 ## 🛠️ My Tech Stack  
