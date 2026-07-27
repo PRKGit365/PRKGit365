@@ -7,7 +7,7 @@ I'm an analyst with a passion for using technology to improve the healthcare ind
 
 🌱I'm learning **Tableau** and **Snowflake**.  
 📄I'm also in the process of earning my **TechMaster Certificate in Data Analytics from SkillUp**.  
-🗪 Most importantly, I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**. Feel free to reach out to me!  
+🗪 I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**. Feel free to reach out to me!  
 🎯 My goal is to use knowledge of stakeholder engagement, value-based care models and healthcare data analytics to support decision-making and solve real-world healthcare problems.  
 
 
