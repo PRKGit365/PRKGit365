@@ -1,3 +1,5 @@
+<img src="./assets/Laptop%20Banner.gif"/>  
+
 # Hi there, I'm Pratyusha! <img src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
 💬Welcome to my Github profile and portfolio.
@@ -12,7 +14,6 @@
  <img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='220' align="center"/> 
 
 ## 🛠️ My Tech Stack
-<img src="./assets/Laptop%20Banner.gif"/>
 
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
