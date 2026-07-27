@@ -4,15 +4,12 @@
 
 ### 📍 Washington, DC (USA)  
 
+### &nbsp;About Me
   
-📊 Healthcare Analyst | SQL | Power BI | Excel | Python | Value-Based Care | Population Health 
-
-
-  
-* 🌱I'm learning **Tableau** and exploring **Snowflake**.
-* 📄I'm also in the process of earning my **TechMaster Certificate in Data Analytics from SkillUp**.
-* 🗪 Most importantly, I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**. Feel free to reach out to me!
-* 🎯 My goal is to combine experience with stakeholder engagement, understanding of value-based care models and knowledge of healthcare data analytics to support decision-making and solve real-world healthcare problems.
+🌱I'm learning **Tableau** and exploring **Snowflake**.  
+📄I'm also in the process of earning my **TechMaster Certificate in Data Analytics from SkillUp**.  
+🗪 Most importantly, I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**. Feel free to reach out to me!  
+🎯 My goal is to combine experience with stakeholder engagement, understanding of value-based care models and knowledge of healthcare data analytics to support decision-making and solve real-world healthcare problems.
 
 ***
 
