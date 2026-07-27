@@ -2,7 +2,8 @@
 
 # Hi there, I'm Pratyusha! <img src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
-💬Welcome to my Github profile and portfolio.
+💬Welcome to my Github profile and portfolio.  
+I am a data analyst with a passion for using technology to improve the healthcare industry. Let's build better healthcare together through compassion, collaboration and innovation.
 
 
 ### &nbsp;About Me
