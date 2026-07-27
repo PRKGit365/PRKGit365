@@ -10,11 +10,11 @@
 📄I'm also in the process of earning my **TechMaster Certificate in Data Analytics from SkillUp**.  
 🗪 Most importantly, I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**. Feel free to reach out to me!  
 🎯 My goal is to combine experience with stakeholder engagement, understanding of value-based care models and knowledge of healthcare data analytics to support decision-making and solve real-world healthcare problems.
-<img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif">
  
-***
 
 ## 🛠️ My Tech Stack
+<img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='300' align="right"/>
+
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/)   
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
