@@ -13,7 +13,6 @@
 
 
 ## 🛠️ My Tech Stack  
-<img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='200' align="right"/>  
   
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/) 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com) 
@@ -27,10 +26,11 @@
 **Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
 **Database Management Systems:** Microsoft SQL Server, MySQL  
 
+<img src="./assets/Laptop%20Banner.gif" width='700' align="center"/>  <img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='250' align="center"/>  
 
 ## 📊Featured Projects     
 
- ### Emergency Department Readmission Analysis and Predictive Modeling 🔗 [Project Link](https://github.com/PRKGit365/Emergency-Department-Readmissions-Analysis-and-Predictive-Modeling) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+ ### Emergency Department Readmission Analysis and Predictive Modeling 🔗 [Project Link](https://github.com/PRKGit365/Emergency-Department-Readmissions-Analysis-and-Predictive-Modeling) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/PRKGit365/Emergency-Department-Readmissions-Analysis-and-Predictive-Modeling)
 
 - Analyzed emergency department readmission patterns and risk factors.
 - Used Python (Pandas, NumPy) for data processing and analysis. 
