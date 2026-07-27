@@ -2,7 +2,6 @@
 
 💬Welcome to my Github profile and portfolio.
 
-<img src="./assets/Laptop%20Banner.gif"/>
 
 ### &nbsp;About Me
 
@@ -10,11 +9,12 @@
 📄I'm also in the process of earning my **TechMaster Certificate in Data Analytics from SkillUp**.  
 🗪 Most importantly, I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**. Feel free to reach out to me!  
 🎯 My goal is to use knowledge of stakeholder engagement, value-based care models and healthcare data analytics to support decision-making and solve real-world healthcare problems.  
- <img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='220' align="center"/>
+ <img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='220' align="center"/> 
 
 ## 🛠️ My Tech Stack
+<img src="./assets/Laptop%20Banner.gif"/>
 
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/)   
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
