@@ -11,9 +11,9 @@
 
 
   
-* 🌱I'm exploring **Tableau** and **Snowflake**.
+* 🌱I'm learning **Tableau** and exploring **Snowflake**.
 * 📄I'm also in the process of earning my **TechMaster Certificate in Data Analytics from SkillUp**.
-* 🗪 I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**.
+* 🗪 Most importantly, I'm looking to collaborate on **Population Health, Clinical Analytics Projects, and Healthcare Dashboards**. Feel free to reach out to me!
 * 🎯 My goal is to combine experience with stakeholder engagement, understanding of value-based care models and knowledge of healthcare data analytics to support decision-making and solve real-world healthcare problems.
 
 ***
@@ -23,6 +23,7 @@
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Data_(Looker)_Studio-E97627?style=for-the-badge&logo=Looker-Studio&logoColor=white) 
+
 
 * **Data Analysis & Visualization:** Power BI, Microsoft Excel, IBM Cognos Analytics, Data (Looker) Studio
 * **Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
