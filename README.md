@@ -2,6 +2,8 @@
 
 💬Welcome to my Github profile and portfolio.
 
+<img src="./assets/Laptop%20Banner.gif"/>
+
 ### &nbsp;About Me
 
 🌱I'm learning **Tableau** and **Snowflake**.  
