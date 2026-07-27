@@ -20,9 +20,9 @@
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![](https://img.shields.io/badge/Data_(Looker)_Studio-E97627?style=for-the-badge&logo=Looker-Studio&logoColor=white) 
 
-**Data Analysis & Visualization:** Power BI, Microsoft Excel, IBM Cognos Analytics, Data (Looker) Studio
-**Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
-**Database Management Systems:** Microsoft SQL Server, MySQL
+**Data Analysis & Visualization:** Power BI, Microsoft Excel, IBM Cognos Analytics, Data (Looker) Studio  
+**Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
+**Database Management Systems:** Microsoft SQL Server, MySQL  
 
 
 ## Featured Projects     
