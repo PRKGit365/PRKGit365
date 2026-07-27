@@ -20,9 +20,9 @@
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Data_(Looker)_Studio-E97627?style=for-the-badge&logo=Looker-Studio&logoColor=white) 
 
-* **Data Analysis & Visualization:** Power BI, Microsoft Excel, IBM Cognos Analytics, Data (Looker) Studio
-* **Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
-* **Database Management Systems:** Microsoft SQL Server, MySQL
+**Data Analysis & Visualization:** Power BI, Microsoft Excel, IBM Cognos Analytics, Data (Looker) Studio
+**Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
+**Database Management Systems:** Microsoft SQL Server, MySQL
 
 
 ## Featured Projects    
