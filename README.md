@@ -26,7 +26,7 @@
 **Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
 **Database Management Systems:** Microsoft SQL Server, MySQL  
 
-<img src="./assets/Laptop%20Banner.gif" width='700' align="center"/>  <img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='250' align="center"/>  
+<img src="./assets/Laptop%20Banner.gif" width='600' align="center"/>  <img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='250' align="center"/>  
 
 ## 📊Featured Projects     
 
