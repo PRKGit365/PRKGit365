@@ -19,7 +19,10 @@
 ***
 
 ## 🛠️ My Tech Stack
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos_Analytics-0078D4?style=for-the-badge&logo=IBM-cognos-analytics&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2300C4CC.svg?style=for-the-badge&logo=Python&logoColor=white)  ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Data_(Looker)_Studio-E97627?style=for-the-badge&logo=Looker-Studio&logoColor=white)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/)   
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos_Analytics-0078D4?style=for-the-badge&logo=IBM-cognos-analytics&logoColor=white) 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Data_(Looker)_Studio-E97627?style=for-the-badge&logo=Looker-Studio&logoColor=white) 
 
 * **Data Analysis & Visualization:** Power BI, Microsoft Excel, IBM Cognos Analytics, Data (Looker) Studio
 * **Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
