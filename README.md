@@ -11,8 +11,8 @@ I'm an analyst with a passion for using technology to improve the healthcare ind
 🎯 My goal is to use knowledge of stakeholder engagement, value-based care models and healthcare data analytics to support decision-making and solve real-world healthcare problems.  
 
 
-## 🛠️ My Tech Stack
-  <img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='220' align="right"/> 
+## 🛠️ My Tech Stack  
+<img src="./assets/Understanding%20False%20Claims%20GIF%20by%20All%20Better.gif" width='200' align="right"/>  
   
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/) 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com) 
@@ -25,6 +25,7 @@ I'm an analyst with a passion for using technology to improve the healthcare ind
 **Data Analysis & Visualization:** Power BI, Microsoft Excel, IBM Cognos Analytics, Data (Looker) Studio  
 **Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
 **Database Management Systems:** Microsoft SQL Server, MySQL  
+
 
 ## Featured Projects     
 
