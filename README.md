@@ -1,6 +1,7 @@
 # Hi there, I'm Pratyusha! <img src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
-### Welcome to my Github profile and portfolio. I'm an analyst with a passion for using technology to improve the healthcare industry. 
+### Welcome to my Github profile and portfolio. 
+I'm an analyst with a passion for using technology to improve the healthcare industry. 
 
 📊 Healthcare Analyst | Power BI | SQL | Python | Excel 
 
